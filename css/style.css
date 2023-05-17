@@ -55,34 +55,31 @@ ul {
   list-style: none;
   padding: 0px;
   text-align: center;
+  position: relative;
 }
 
 .redes-sociais {
   padding-top: 16px;
   padding-bottom: 64px;
   text-align: center;
-}
-
-.facebook {
-  padding-right: 8px;
-}
-
-.instagram {
-  padding-left: 8px;
+  gap: 16px;
 }
 
 li {
   padding-bottom: 25px;
 }
 
+.links {
+  place-self: center;
+}
+
 li:not(:last-child):after {
-  content: "";
   display: block;
+  content: "";
   width: 100px;
   height: 1px;
   margin-top: 12px;
-  background: #fcf2ce;
-  position: absolute;
+  background: blueviolet;
 }
 
 li a {
