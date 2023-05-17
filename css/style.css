@@ -51,18 +51,25 @@ h2 {
   text-align: center;
 }
 
-ul {
-  list-style: none;
-  padding: 0px;
-  text-align: center;
-  position: relative;
+.facebook {
+  padding-right: 8px;
 }
 
+.instagram {
+  padding-left: 8px;
+}
 .redes-sociais {
   padding-top: 16px;
   padding-bottom: 64px;
   text-align: center;
   gap: 16px;
+}
+
+ul {
+  list-style: none;
+  padding: 0px;
+  text-align: center;
+  position: relative;
 }
 
 li {
@@ -79,7 +86,10 @@ li:not(:last-child):after {
   width: 100px;
   height: 1px;
   margin-top: 12px;
-  background: blueviolet;
+  background: #fcf2ce;
+  position: absolute;
+  left: 50%;
+  transform: translateX(-50%);
 }
 
 li a {
