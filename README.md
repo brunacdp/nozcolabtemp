@@ -3,7 +3,7 @@
 
 # :chestnut: Noz Colab | Em construção
 
-  Página temporária com lista de links da loja, cujo objetivo é substituir o linktree. Foi desenvolvida enquanto estudava HTML e CSS para iniciantes na Origamid.
+  Página temporária com lista de links da loja, cujo objetivo é substituir o linktree.
 
   :link: Acesse a página [por aqui](https://nozcolab.com.br/).
   <br>
