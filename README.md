@@ -5,7 +5,7 @@
 
   Página temporária com lista de links da loja, cujo objetivo é substituir o linktree.
 
-  :link: Acesse a página [por aqui](https://nozcolab.com.br/).
+  :link: Acesse a página [por aqui](https://nozcolabtemp.vercel.app/)).
   <br>
   <br>
 
