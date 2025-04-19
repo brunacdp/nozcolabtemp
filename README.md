@@ -1,4 +1,4 @@
-<img width="1440" alt="image" src="https://github.com/brunacdp/nozcolabtemp/assets/126818470/09441fde-b21e-48cc-be32-9010fe0789df">
+<img width="1440" alt="image" src="https://github.com/user-attachments/assets/2f96278f-46a1-4c35-9a17-d882ad39e60d">
 <hr>
 
 # :chestnut: Noz Colab | Em construção
