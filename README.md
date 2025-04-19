@@ -1,6 +1,6 @@
 <img width="1440" alt="image" src="https://github.com/user-attachments/assets/2f96278f-46a1-4c35-9a17-d882ad39e60d">
 
-# :chestnut: Noz Colab | Em construção
+# :chestnut: :chipmunk: Noz Colab "Em construção"
 
   Página temporária com lista de links da loja, cujo objetivo é substituir o linktree.
 
